@@ -1,0 +1,8 @@
+.place {
+  display: flex;
+  padding-bottom: 80px;
+}
+
+.place:last-child {
+  padding-bottom: 92px;
+}
