@@ -5,3 +5,29 @@
   width: 1184px;
   padding-bottom: 92px;
 }
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {
+    width: 928px;
+    grid-template-columns: repeat(3, 300px);
+    gap: 14px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .photo-grid {
+    width: 768px;
+    grid-template-columns: repeat(2, 352px);
+    gap: 16px;
+    padding-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .photo-grid {
+    width: 320px;
+    grid-template-columns: 288px;
+    padding-bottom: 64px;
+    gap: 16px;
+  }
+}

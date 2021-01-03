@@ -1,6 +1,6 @@
 .cover__overlay {
-  width: 100%;
-  height: 100%;
+  width: 1182px;
+  height: 738px;
   border: 1px solid #2A2C2F;
   background-color: rgba(42, 44, 47, .3);
   transition: .3s linear;
@@ -8,4 +8,25 @@
 
 .cover__overlay:hover {
   background-color: rgba(42, 44, 47, .8);
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__overlay {
+    width: 1022px;
+    height: 638px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__overlay {
+    width: 766px;
+    height: 478px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__overlay {
+    width: 318px;
+    height: 198px;
+  }
 }
