@@ -1,6 +1,7 @@
 .place {
-  display: flex;
   padding-bottom: 80px;
+  display: flex;
+  flex-direction: column;
 }
 
 .place:last-child {
@@ -14,7 +15,11 @@
 }
 
 @media screen and (max-width: 320px) {
+  .place {
+    padding-bottom: 24px;
+  }
+
   .place:last-child {
-    padding-bottom: 66px;
+    padding-bottom: 40px;
   }
 }

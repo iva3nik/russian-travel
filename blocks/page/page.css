@@ -1,5 +1,5 @@
 .page {
-  max-width: 1280px;
+  width: 1280px;
   margin: auto;
   background-color: #2A2C2F;
   color: #FFF;
@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 1024px) {
   .page {
-    width: 1024px;
+    width: 768px;
   }
 }
 
@@ -29,5 +29,6 @@
 @media screen and (max-width: 320px) {
   .page {
     width: 320px;
+    padding-top: 16px;
   }
 }
