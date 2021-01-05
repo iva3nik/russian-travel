@@ -36,6 +36,7 @@
 @import url(../blocks/place/__row2/place__row2.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__paragraph/_margin/place__paragraph_margin_bottom.css);
 
 
 @import  url(../blocks/cover/cover.css);

@@ -9,6 +9,10 @@
 }
 
 @media screen and (max-width: 768px) {
+  .place {
+    padding-bottom: 73px;
+  }
+
   .place:last-child {
     padding-bottom: 90px;
   }
@@ -16,10 +20,10 @@
 
 @media screen and (max-width: 320px) {
   .place {
-    padding-bottom: 24px;
+    padding-bottom: 50px;
   }
 
   .place:last-child {
-    padding-bottom: 40px;
+    padding-bottom: 66px;
   }
 }
