@@ -2,7 +2,7 @@
   width: 1184px;
   height: 740px;
   background-image:
-    url('/images/__background.jpg');
+    url('../../images/__background.jpg');
   background-size: cover;
   background-position: center;
 }
