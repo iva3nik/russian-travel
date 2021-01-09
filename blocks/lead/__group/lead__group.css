@@ -1,0 +1,29 @@
+.lead__group {
+  width: 937.09px;
+  height: 262.99px;
+  margin: 90.21px 0 0 23.27px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__group {
+    width: 835.58px;
+    height: 211.81px;
+    margin: 121.29px 0 0 39.14px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__group {
+    width: 691.51px;
+    height: 175.29px;
+    margin: 100.38px 0 0 32.39px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__group {
+    width: 288.13px;
+    height: 73.04px;
+    margin: 41.83px 0 0 13.5px;
+  }
+}
