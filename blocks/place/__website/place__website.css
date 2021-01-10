@@ -2,13 +2,13 @@
   width: 456px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .place__website {
     width: 352px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .place__website {
     width: 288px;
     margin: 32px auto 0;

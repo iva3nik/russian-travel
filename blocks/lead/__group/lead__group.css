@@ -4,7 +4,7 @@
   margin: 90.21px 0 0 23.27px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .lead__group {
     width: 835.58px;
     height: 211.81px;
@@ -12,7 +12,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .lead__group {
     width: 691.51px;
     height: 175.29px;
@@ -20,7 +20,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .lead__group {
     width: 288.13px;
     height: 73.04px;

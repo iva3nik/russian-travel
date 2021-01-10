@@ -10,21 +10,21 @@
   background-color: rgba(42, 44, 47, .8);
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .cover__overlay {
     width: 1022px;
     height: 638px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .cover__overlay {
     width: 766px;
     height: 478px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .cover__overlay {
     width: 318px;
     height: 198px;
