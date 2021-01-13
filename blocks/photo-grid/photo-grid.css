@@ -25,9 +25,16 @@
 
 @media screen and (max-width: 767px) {
   .photo-grid {
-    width: 288px;
-    grid-template-columns: 288px;
+    width: 500px;
+    grid-template-columns: 100%;
     padding-bottom: 64px;
-    gap: 16px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .photo-grid {
+    width: 90%;
+    grid-template-columns: 100%;
+    padding-bottom: 64px;
   }
 }

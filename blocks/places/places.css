@@ -2,19 +2,19 @@
   width: 984px;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1085px) {
   .places {
-    width: 928px;
+    width: 90.625%;
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 989px) {
   .places {
-    width: 720px;
+    width: 93.75%;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 500px) {
   .places {
     width: 320px;
   }

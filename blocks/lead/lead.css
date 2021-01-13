@@ -3,21 +3,15 @@
   padding-top: 56px;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1085px) {
   .lead {
-    width: 928px;
+    width: 90.62%;
     padding-top: 48px;
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 928px) {
   .lead {
-    width: 768px;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .lead {
-    width: 320px;
+    width: 100%;
   }
 }

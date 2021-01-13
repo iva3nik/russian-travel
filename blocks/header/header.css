@@ -1,25 +1,23 @@
 .header {
-  height: 52px;
   display: flex;
   justify-content: space-between;
-  width: 1184px;
+  width: 92.5%;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1024px) {
   .header {
-    width: 928px;
+    width: 90.62%;
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 768px) {
   .header {
-    width: 720px;
+    width: 93.75%;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 320px) {
   .header {
-    width: 288px;
-    height: 42px;
+    width: 90%;
   }
 }
