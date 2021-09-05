@@ -1,5 +1,7 @@
 # Проект : Путешествие по России
 
+Cтек: HTML / CSS / Git / Figma
+
 # Ссылка на проект
 https://iva3nik.github.io/russian-travel/
 
